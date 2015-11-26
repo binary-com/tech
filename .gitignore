@@ -1,10 +1,62 @@
+# Jekyll
 _site
+
+# octopress
 .deploy
 
-.DS_Store
+# Ruby
+.rake_test_cache
+.rvmrc
+.rbenv-version
+Gemfile.lock
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Emacs org-mode
+.org-id-locations
+*_archive
+
+# SublimeText
 *.sublime-project
 *.sublime-workspace
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Misc
+.DS_Store
 codekit-config.json
 node_modules
-Gemfile.lock
 .sass-cache
