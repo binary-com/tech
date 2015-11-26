@@ -1,4 +1,6 @@
 _site
+.deploy
+
 .DS_Store
 *.sublime-project
 *.sublime-workspace
