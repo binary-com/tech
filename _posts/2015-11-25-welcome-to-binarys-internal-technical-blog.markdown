@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to Binary's Technical Blog"
+categories: [intro]
 date: 2015-11-25T14:35:24+08:00
 ---
 
