@@ -28,10 +28,10 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Binary Group Services Sdn Bhd
+  name:           Binary.com IT Team
   site:           http://binary.com
-  avatar:         images/logo.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  avatar:         images/logo.png
+  bio:            "We have a team of experienced Software Developers and DevOps. And we would like to share some our thoughts."
   email:          tech@binary.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: 
