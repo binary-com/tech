@@ -9,4 +9,6 @@ comments: false
 modified: 2015-11-26
 ---
 
-Here will be an about page for Binary.com's technical blog.
+Binary.com is one of the oldest and most respected names in online binary trading.
+
+We have an Operational Headquarters office in Cyberjaya, a high-tech precinct south of Kuala Lumpur, the capital of Malaysia, an equally exciting destination at the heart of Asia.
