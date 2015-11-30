@@ -9,8 +9,8 @@ comments: false
 modified: 2015-11-26
 ---
 
-# Binary.com
-is one of the oldest and most respected names in online binary trading.
+# Company
+Binary.com is one of the oldest and most respected names in online binary trading.
 
-# Our team
+# Our IT team
 We have an Operational Headquarters office in Cyberjaya, a high-tech precinct south of Kuala Lumpur, the capital of Malaysia, an equally exciting destination at the heart of Asia.
