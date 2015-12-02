@@ -10,6 +10,10 @@ _site
 .rbenv-version
 Gemfile.lock
 
+# Bundler
+vendor/bundle
+.bundle
+
 # Emacs
 *~
 \#*\#
