@@ -5,6 +5,8 @@ categories: [intro]
 date: 2015-11-25T14:35:24+08:00
 ---
 
-I would like to introduce Binary's technical blog.
+Hello All!
 
-This blog is for tech articles from binary's developers and devops team.
+We would like to introduce Binary's technical blog.
+
+We will publish tech articles from binary's developers and devops team here.
