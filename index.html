@@ -33,6 +33,7 @@ comments: false
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>Read more</strong></a>
     {% else %}
       {{ post.content }}
     {% endif %}

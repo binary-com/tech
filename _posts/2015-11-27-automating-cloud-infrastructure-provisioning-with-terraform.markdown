@@ -38,6 +38,8 @@ cloud infrastructure management.
 
 So what's good about it?
 
+<!-- more -->
+
 * It's cloud agnostic. You can use [Terraform](https://terraform.io)
 to automate AWS, Rackspace, Google cloud, etc.
 * It supports sharing your infrastructure saved state over git. So you

@@ -20,7 +20,9 @@ abstractions so that other developers can use the complicated library without wo
 Throughout the development process, I need to change the my abstractions frequently, as we do not have very specific
 requirements upfront.
 
-As you know, refactoring Javascript is ***no fun***, for example
+As you know, refactoring Javascript is ***no fun***, for example:
+
+<!-- more -->
 
 ##Case 1 - Simple functions without default arguments##
 
